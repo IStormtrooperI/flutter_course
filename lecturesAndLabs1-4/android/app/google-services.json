@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554702513170",
+    "project_id": "artgallery-fluttercourse-2a1a7",
+    "storage_bucket": "artgallery-fluttercourse-2a1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554702513170:android:c5cf38442b0fe30b7c64cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554702513170-thprtc5q3i0qqekvkf2d32totdb8ltvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8C1gLDv558qnyUsrNfs01YgILdyM6jGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554702513170-thprtc5q3i0qqekvkf2d32totdb8ltvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
